@@ -1,16 +1,6 @@
-# Evolution Hunter V1
+# Evolution Hunter V1.1 — Roguelite
+Chaque mort donne des points d'évolution permanents.
+Le héros recommence au début mais conserve ses bonus permanents, ses fragments et ses ères débloquées.
+Début de partie rendu plus facile.
 
-Prêt pour GitHub Pages.
-
-## Publication
-1. Créez un repository GitHub public nommé `evolution-hunter`.
-2. Uploadez `index.html` à la racine.
-3. Settings > Pages > Deploy from a branch.
-4. Choisissez `main` et `/(root)`, puis Save.
-
-## Jeu
-- 5 ères : 8-BIT, 16-BIT, 2D HD, 2.5D, NÉO-3D
-- Monstres, boss, XP, niveaux, stats, fragments, or
-- Dash débloqué après la première évolution
-- Sauvegarde locale automatique
-- PC + mobile
+Pour mettre à jour GitHub Pages : remplacez l'ancien index.html par celui-ci.
